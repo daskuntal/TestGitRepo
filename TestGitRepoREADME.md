@@ -1,4 +1,3 @@
 # TestGitRepo
 Testing Git functionalities
-Added GitFusion integration
-Yet another change
+Yet a different change
