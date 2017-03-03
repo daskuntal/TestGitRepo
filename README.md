@@ -1,3 +1,3 @@
 # TestGitRepo
 Testing Git functionalities
-New line added
+THis is a new file in Maser
